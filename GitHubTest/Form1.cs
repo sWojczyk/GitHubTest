@@ -21,6 +21,8 @@ namespace GitHubTest
         {
             MessageBox.Show("#####");
             MessageBox.Show("@@@@@");
+            MessageBox.Show("#####");
+            MessageBox.Show("@@@@@");
         }
 
         private void button2_Click(object sender, EventArgs e)
