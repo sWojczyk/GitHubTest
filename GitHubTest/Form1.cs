@@ -21,6 +21,8 @@ namespace GitHubTest
         {
             MessageBox.Show("#####");
             MessageBox.Show("@@@@@");
+            MessageBox.Show("#####");
+            MessageBox.Show("@@@@@");
         }
     }
 }
